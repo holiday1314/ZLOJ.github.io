@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>Hello World</title>
-    <url>/hello/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://www.luogu.com.cn/team/65238">ZLOJ</a>!</p>
-]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/hello/hello-world/"/>
+      <url>/hello/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://www.luogu.com.cn/team/65238">ZLOJ</a>!</p>]]></content>
+      
+      
       <categories>
-        <category>hello</category>
+          
+          <category> hello </category>
+          
       </categories>
-  </entry>
+      
+      
+    </entry>
+    
+    
+  
+  
+    
+    
+    <entry>
+      <title></title>
+      <link href="/404.html"/>
+      <url>/404.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="Sorry-the-page-can’t-find"><a href="#Sorry-the-page-can’t-find" class="headerlink" title="Sorry, the page can’t find"></a>Sorry, the page can’t find</h1>]]></content>
+      
+    </entry>
+    
+    
+  
 </search>
